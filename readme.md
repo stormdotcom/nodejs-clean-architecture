@@ -86,7 +86,7 @@ src/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/clean-architecture-node.git
+git clone https://github.com/stormdotcom/nodejs-clean-architecture.git
 cd clean-architecture-node
 ```
 
